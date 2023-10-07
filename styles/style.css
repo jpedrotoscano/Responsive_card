@@ -145,7 +145,7 @@ main {
     }
 
     .content .product-img {
-        content: url(../images/image-product-desktop.jpg);
+        content: url(images/image-product-desktop.jpg);
         width: 100%;
         min-height: 100%;
         background-size: cover;
